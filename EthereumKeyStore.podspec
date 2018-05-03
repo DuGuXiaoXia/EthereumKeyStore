@@ -6,7 +6,7 @@ s.homepage     = 'https://github.com/DuGuXiaoXia/EthereumKeyStore'
 s.license      = { :type => 'MIT', :file => 'LICENSE' }
 s.authors      = { 'DuGuXiaoXia' => 'guojian1947@163.com' }
 
-s.ios.deployment_target = '10.0'
+s.ios.deployment_target = '8.0'
 
 s.source       = { git: 'https://github.com/DuGuXiaoXia/EthereumKeyStore.git', tag: s.version }
 s.source_files = "EthereumKeyStore/**/*"
